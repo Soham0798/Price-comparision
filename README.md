@@ -84,6 +84,11 @@ This application includes the following security measures:
 | `/compare`      | GET    | `item`     | Compare prices (HTML view)     |
 | `/api/compare`  | GET    | `item`     | Compare prices (JSON response) |
 
+## Contributors
+
+- [Soham0798](https://github.com/Soham0798)
+- [sarayur6](https://github.com/sarayur6)
+
 ## License
 
 This project is for educational purposes.
