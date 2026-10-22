@@ -1,14 +1,14 @@
-# 🍕 Food Price Comparison — Zomato vs Swiggy
+# Food Price Comparison — Zomato vs Swiggy
 
 A Spring Boot web application that compares food prices between **Zomato** and **Swiggy** in real-time using Selenium web scraping.
 
 ## Features
 
-- 🔍 Search for any food item and compare prices across platforms
-- 📊 Side-by-side comparison with ratings and delivery times
-- 🏆 Highlights the cheaper option with savings amount
-- 🎨 Clean, responsive Bootstrap UI
-- 🔒 Secure — input validation, rate limiting, security headers
+- Search for any food item and compare prices across platforms
+- Side-by-side comparison with ratings and delivery times
+- Highlights the cheaper option with savings amount
+- Clean, responsive Bootstrap UI
+- Secure — input validation, rate limiting, security headers
 
 ## Tech Stack
 
